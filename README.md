@@ -1,6 +1,6 @@
 ### Hi Welcome to my Github 👋
 
-- 🚀 I'm studying Unity, JavaScript, React. 
+- 🚀 I'm studying Unity, , React. 
 - 🏯 Make some Awesome Project.
 - 🚅 If you have any questions, please reave a message.
 
