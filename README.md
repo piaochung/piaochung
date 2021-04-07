@@ -1,10 +1,8 @@
 ### Hi Welcome to my Github 👋
 
-- 🚀 I'm studying Unity, , React. 
+- 🚀 I'm studying Unity, Data Science
 - 🏯 Make some Awesome Project.
 - 🚅 If you have any questions, please reave a message.
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=piaochung&count_private=true)
 
 <!--
 **piaochung/piaochung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
