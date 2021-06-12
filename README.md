@@ -1,5 +1,5 @@
 ### 🚓 piaochung - programmer
-#### 게임 개발을 공부하다가 현재는 백엔드와 데이터분석을 주로 공부하고 있습니다.
+#### 게임 개발을 공부하다가 현재는 Python을 사용한 백엔드와 데이터분석을 주로 공부하고 있습니다.
 
 #### Tech Stack
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
