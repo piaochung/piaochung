@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-ffffff?style=flat-square&logo=Unity&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
 
 #### 관싱있는 것이 많고, 하고 싶은 것도 많습니다.
